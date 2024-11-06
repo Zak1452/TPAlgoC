@@ -1,12 +1,12 @@
 /*
  * listeListeChainee.h
  *
- *  Created on: 5 nov. 2024
- *      Author: tretec
+ *  Created on: 1 nov. 2024
+ *      Author: Zakaria Chaker
  */
 
-#ifndef LISTELISTECHAINEE_H_
-#define LISTELISTECHAINEE_H_
+#ifndef LISTE_H_
+#define LISTE_H_
 
 //Prototypage
 typedef struct{

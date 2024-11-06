@@ -1,12 +1,13 @@
 /*
  * main.c
  *
- *  Created on: 6 nov. 2024
- *      Author: tretec
+ *  Created on: 2 nov. 2024
+ *      Author: Zakaria Chaker
  */
 #include <stdlib.h>
 #include <stdio.h>
-#include "listeListeChainee.h"
+
+#include "liste.h"
 
 void affichageMenu()
 {

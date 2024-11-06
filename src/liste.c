@@ -6,9 +6,10 @@
  *              TP11 (Prog 3)
  */
 
+#include "liste.h"
+
 #include <stdio.h>
 #include <stdlib.h>
-#include "listeListeChainee.h"
 
 // Struct Point
 
